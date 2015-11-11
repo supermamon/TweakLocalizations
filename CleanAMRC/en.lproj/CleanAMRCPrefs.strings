@@ -2,7 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>ENABLE_CLEANAMRC</key>
+    <string>Enable CleanAMRC</string>
+
+    <key>CUSTOMIZE</key>
+    <string>Configuration</string>
+
+    <key>CREDITS</key>
+    <string>Makers</string>
     <key>SEND_FEEDBACK</key>
-    <string>Ask for help</string>
+    <string>Send Feedback</string>
 </dict>
 </plist>
