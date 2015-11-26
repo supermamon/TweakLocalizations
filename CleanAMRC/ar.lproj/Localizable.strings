@@ -1,0 +1,69 @@
+/* Translations by /u/Ahmad_nagy */
+
+/* Header */
+"Customize your amrc experience." = "amrcعدل تجربتك ل ";
+
+/* Main View */
+"Enable CleanAMRC" = " CleanAMRC تفعيل";
+"Re-launch amrc" = "amrc اعاده تفعيل ";
+"Configure" = "اختيارات";
+"Makers" = "المطورين";
+"Send Feedback" = "ارسل ملاحظاتك";
+
+/* Configure View */
+"Show or Hide Objects" = "اظهر او اخفي ";
+"Turn off setting to hide item" = "ايقاف الاعدادت لأخفاء العنصر";
+"Separators" = "فواصل";
+"Homepage" = "الصفحه الرئيسية";
+"Sidebar" = "الشريط الجانبي";
+"Posts Listing" = "المشاركات";
+"Colors" = "الوان";
+"Enable custom colors" = "تفعيل الالوان المعدله";
+"Day Mode colors" = "الوان شكل النهار";
+"Night Mode colors" = "الوان شكل الليل";
+
+/* Homepage View */
+"Shotcut Icons" = "ايقونات الاختصار";
+"Subreddit Icons" = "Subredditايقونات ال";
+"Subreddit Last Viewed Time" = "Subredditاخر مره شوهد ال";
+
+/* Sidebar View */
+"Icons" = "ايقونات";
+"Day/Night Mode Switch" = "تفعيل شكل النهار/الليل";
+
+/* Posts Listing View */
+"Items below the title" = "العناصر تحت العنوان";
+"Vote Icon" = "ايقونة التصويت";
+"Saved Icon" = "ايقونة المشاركات المحفوظه";
+"Post Type Icon" = "ايقونه نوع المشاركه";
+"Post Score" = "نقاط المشاركه";
+"Comments Icon" = "ايقونه التعليقات";
+"Comments Count" = "عدد التعليقات";
+"NSFW Icon" = "ايقونه المشاركات التي غير صالحه للعمل";
+"Link Flairs" = "Flairsرابط ال";
+"FLAIR_FOOTER" = "ال flair التي تكون بجانب إسمك";
+"Author Line" = "خط المؤلف";
+"AUTHOR_LINE_FOOTER" = "الاختيارات الاتيه لن يكون لها تأثير اذا خط المؤلف مخفي";
+"User Flair" = "ال flair خآصة المستخدم";
+
+/* Makers Listing View */
+"Developer" = "المطور";
+"Contribute" = "ساهم";
+"Donations are welcome" = "التبرعات مرحب بها";
+"Help Translate" = "ساعد في الترجمه";
+"Thank you" = "ًشكرا";
+"Icons from icons8.com" = " icons8.com الايقونات من";
+
+/* Day/Night Colors View */
+"Overall Colors" = "الالوان عمومياً";
+"Body Text" = "النص الاساسي";
+"Post Lists" = "قائمه المشاركات";
+"COLORS_POST_LIST_FOOTER" = "تغير لون المشاركات الجديده سيغير لون عنوان حجم الصور ايضاً";
+"New Posts" = "المشاركات الجديده";
+"Seen Posts" = "المشاركات التي رأيتها";
+/*"Link Flairs" = "Link Flairs";*/
+"User Flairs" = "ال flair خآصة المستخدم";
+"Posts" = "المشاركات";
+"Comments" = "التعليقات";
+"OP Name" = "اسم المؤلف";
+"Commenter Name" = "اسم المعلق";

@@ -1,0 +1,34 @@
+"TWITTER_MESSAGE" = "[en]I'm lovin' the tweak #SwitcherSpeedster by @supermamon";
+"PREFS_SUBHEADER" = "[en]Speed up the iOS 9 switcher";
+"EMAIL_SUBJECT" = "[en]Feedback for SwitcherSpeedster";
+
+"ENABLE" = "[en]Activate";
+"CONFIGURE" = "[en]Configure";
+"MAKERS" = "[en]Makers";
+"SEND_FEEDBACK" = "[en]Send Feedback";
+
+"SIMPLICITY" = "[en]Simplicity";
+"NO_BLURS" = "[en]No Blurs";
+"NO_ICONS" = "[en]No Icons";
+"BACKGROUND_BLUR" = "[en]Background Blur";
+"BLURRED" = "[en]Blurred";
+"NONE" = "[en]None";
+"BLACK" = "[en]Black";
+
+"SPRINGBOARD_CARD_BLUR"="[en]Springboard Card Blur";
+"APP_CARD_ALPHA" = "[en]App Card Alpha";
+
+"PROGRESSIVE" = "[en]Progressive";
+"OPAQUE" = "[en]Opaque";
+"WHITE" = "[en]White";
+"APP_CARD_DOWNSCALING" = "[en]App Card Dowscaling";
+
+"DEFAULT" = "[en]Default";
+"FULL_RES" = "[en]Full-Res";
+"DOWNSCALED" = "[en]Downscaled";
+
+"DEVELOPER" = "[en]Developer";
+"CONTRIBUTE" = "[en]Contribute";
+"DONATIONS_ARE_WELCOME" = "[en]Donations are welcome";
+"HELP_TRANSLATE" = "[en]Help Translate";
+"CREDITS" = "[en]Credits";
