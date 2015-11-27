@@ -1,34 +1,35 @@
-"TWITTER_MESSAGE" = "[en]I'm lovin' the tweak #SwitcherSpeedster by @supermamon";
-"PREFS_SUBHEADER" = "[en]Speed up the iOS 9 switcher";
-"EMAIL_SUBJECT" = "[en]Feedback for SwitcherSpeedster";
+"TWITTER_MESSAGE" = "I'm lovin' the tweak #SwitcherSpeedster by @supermamon";
+"PREFS_SUBHEADER" = "Speed up the iOS 9 switcher";
+"EMAIL_SUBJECT" = "Feedback for SwitcherSpeedster";
 
-"ENABLE" = "[en]Activate";
-"CONFIGURE" = "[en]Configure";
-"MAKERS" = "[en]Makers";
-"SEND_FEEDBACK" = "[en]Send Feedback";
+"ENABLE" = "Activate";
+"CONFIGURE" = "Configure";
+"MAKERS" = "Makers";
+"SEND_FEEDBACK" = "Send Feedback";
 
-"SIMPLICITY" = "[en]Simplicity";
-"NO_BLURS" = "[en]No Blurs";
-"NO_ICONS" = "[en]No Icons";
-"BACKGROUND_BLUR" = "[en]Background Blur";
-"BLURRED" = "[en]Blurred";
-"NONE" = "[en]None";
-"BLACK" = "[en]Black";
+"CONFIGURATION" = "Configuration";
+"SIMPLICITY" = "Simplicity";
+"NO_BLURS" = "No Blurs";
+"NO_ICONS" = "No Icons";
+"BACKGROUND_BLUR" = "Background Blur";
+"BLURRED" = "Blurred";
+"NONE" = "None";
+"BLACK" = "Black";
 
-"SPRINGBOARD_CARD_BLUR"="[en]Springboard Card Blur";
-"APP_CARD_ALPHA" = "[en]App Card Alpha";
+"SPRINGBOARD_CARD_BLUR"="Springboard Card Blur";
+"APP_CARD_ALPHA" = "App Card Alpha";
 
-"PROGRESSIVE" = "[en]Progressive";
-"OPAQUE" = "[en]Opaque";
-"WHITE" = "[en]White";
-"APP_CARD_DOWNSCALING" = "[en]App Card Dowscaling";
+"PROGRESSIVE" = "Progressive";
+"OPAQUE" = "Opaque";
+"WHITE" = "White";
+"APP_CARD_DOWNSCALING" = "App Card Dowscaling";
 
-"DEFAULT" = "[en]Default";
-"FULL_RES" = "[en]Full-Res";
-"DOWNSCALED" = "[en]Downscaled";
+"DEFAULT" = "Default";
+"FULL_RES" = "Full-Res";
+"DOWNSCALED" = "Downscaled";
 
-"DEVELOPER" = "[en]Developer";
-"CONTRIBUTE" = "[en]Contribute";
-"DONATIONS_ARE_WELCOME" = "[en]Donations are welcome";
-"HELP_TRANSLATE" = "[en]Help Translate";
-"CREDITS" = "[en]Credits";
+"DEVELOPER" = "Developer";
+"CONTRIBUTE" = "Contribute";
+"DONATIONS_ARE_WELCOME" = "Donations are welcome";
+"HELP_TRANSLATE" = "Help Translate";
+"CREDITS" = "Credits";
