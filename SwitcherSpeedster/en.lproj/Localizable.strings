@@ -9,21 +9,29 @@
 
 "CONFIGURATION" = "Configuration";
 "SIMPLICITY" = "Simplicity";
-"NO_BLURS" = "No Blurs";
-"NO_ICONS" = "No Icons";
+"NO_BLURS" = "No App Card Blurs";
+"NO_BLURS_FOOTER" = "Remove the blur for app cards that go behind the current card.";
+"NO_ICONS" = "No Icons and Labels";
+"NO_ICONS_FOOTER" = "Hide the icons and labels on top of each card.";
+"NO_DISMISS_SCROLL" = "No Dismiss Scroll";
+"NO_DISMISS_SCROLL_FOOTER" = "Disables scrolling back to the current app before the switcher is dismissed.";
 "BACKGROUND_BLUR" = "Background Blur";
+"BACKGROUND_BLUR_FOOTER" = "Refers to the wallpaper behind the switcher.";
 "BLURRED" = "Blurred";
 "NONE" = "None";
 "BLACK" = "Black";
 
 "SPRINGBOARD_CARD_BLUR"="Springboard Card Blur";
-"APP_CARD_ALPHA" = "App Card Alpha";
+"SPRINGBOARD_CARD_BLUR_FOOTER" = "Refers to the wallpaper of the Springboard card.";
 
+"APP_CARD_ALPHA" = "App Card Alpha";
+"APP_CARD_ALPHA_FOOTER" = "Refers to the transparency of the cards under the current card.";
 "PROGRESSIVE" = "Progressive";
 "OPAQUE" = "Opaque";
 "WHITE" = "White";
-"APP_CARD_DOWNSCALING" = "App Card Dowscaling";
 
+"APP_CARD_DOWNSCALING" = "App Card Dowscaling";
+"APP_CARD_DOWNSCALING_FOOTER" = "Toggles whether the switcher generates a high-res or low-res screenshot of the apps.";
 "DEFAULT" = "Default";
 "FULL_RES" = "Full-Res";
 "DOWNSCALED" = "Downscaled";
