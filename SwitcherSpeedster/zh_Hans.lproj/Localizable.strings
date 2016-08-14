@@ -1,0 +1,43 @@
+"TWITTER_MESSAGE" = "@supermamon 编写的#SwitcherSpeedster 非常棒！它可以对iOS应用切换进行加速，我很喜欢~";
+"PREFS_SUBHEADER" = "加速iOS 9的应用切换";
+"EMAIL_SUBJECT" = "Feedback for SwitcherSpeedster（对SwitcherSpeedster的意见反馈）";
+
+"ENABLE" = "启用";
+"CONFIGURE" = "配置选项";
+"MAKERS" = "作者";
+"SEND_FEEDBACK" = "意见反馈";
+
+"CONFIGURATION" = "配置选项";
+"SIMPLICITY" = "基础设置";
+"NO_BLURS" = "禁用应用快照模糊";
+"NO_BLURS_FOOTER" = "在切换应用时，对于后台应用快照，是否禁用模糊。";
+"NO_ICONS" = "隐藏图标和名称";
+"NO_ICONS_FOOTER" = "在切换应用时，是否隐藏快照上方的图标和应用名称。";
+"NO_DISMISS_SCROLL" = "禁用回滚动态效果";
+"NO_DISMISS_SCROLL_FOOTER" = "在选定应用后，是否禁用应用快照的动态缩放效果。";
+"BACKGROUND_BLUR" = "背景模糊";
+"BACKGROUND_BLUR_FOOTER" = "对切换应用时全屏背景的效果。";
+"BLURRED" = "模糊（iOS默认）";
+"NONE" = "无变化";
+"BLACK" = "纯黑";
+
+"SPRINGBOARD_CARD_BLUR"="桌面壁纸模糊";
+"SPRINGBOARD_CARD_BLUR_FOOTER" = "对系统桌面壁纸的效果。";
+
+"APP_CARD_ALPHA" = "应用快照透明度";
+"APP_CARD_ALPHA_FOOTER" = "在滑动应用快照时，对每张图像透明度变化的效果。";
+"PROGRESSIVE" = "渐变透明（iOS默认）";
+"OPAQUE" = "原图无变化";
+"WHITE" = "纯白";
+
+"APP_CARD_DOWNSCALING" = "应用快照的图像质量";
+"APP_CARD_DOWNSCALING_FOOTER" = "决定系统对于每个应用的快照，是保存高质量还是低质量图像的选项。";
+"DEFAULT" = "默认";
+"FULL_RES" = "全高清";
+"DOWNSCALED" = "低质量";
+
+"DEVELOPER" = "开发者";
+"CONTRIBUTE" = "众人拾柴火焰高";
+"DONATIONS_ARE_WELCOME" = "欢迎捐助";
+"HELP_TRANSLATE" = "帮助翻译";
+"CREDITS" = "版权";
